@@ -1,0 +1,39 @@
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\obj\Debug\net10.0\Assignment 3.csproj.AssemblyReference.cache
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\obj\Debug\net10.0\Assignment 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\obj\Debug\net10.0\Assignment 3.AssemblyInfoInputs.cache
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\obj\Debug\net10.0\Assignment 3.AssemblyInfo.cs
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\obj\Debug\net10.0\Assignment 3.csproj.CoreCompileInputs.cache
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\obj\Debug\net10.0\Assignment 3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\obj\Debug\net10.0\Assignment 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\obj\Debug\net10.0\Assignment 3.sourcelink.json
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\bin\Debug\net10.0\appsettings.json
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\bin\Debug\net10.0\Assignment 3.staticwebassets.endpoints.json
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\bin\Debug\net10.0\Assignment 3.exe
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\bin\Debug\net10.0\Assignment 3.deps.json
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\bin\Debug\net10.0\Assignment 3.runtimeconfig.json
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\bin\Debug\net10.0\Assignment 3.dll
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\bin\Debug\net10.0\Assignment 3.pdb
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\bin\Debug\net10.0\Asp.Versioning.Abstractions.dll
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\bin\Debug\net10.0\Asp.Versioning.Http.dll
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\bin\Debug\net10.0\Asp.Versioning.Mvc.dll
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\obj\Debug\net10.0\scopedcss\bundle\Assignment 3.styles.css
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\obj\Debug\net10.0\Assignme.B01EBD87.Up2Date
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\obj\Debug\net10.0\Assignment 3.dll
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\obj\Debug\net10.0\refint\Assignment 3.dll
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\obj\Debug\net10.0\Assignment 3.pdb
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\obj\Debug\net10.0\Assignment 3.genruntimeconfig.cache
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\obj\Debug\net10.0\ref\Assignment 3.dll
+C:\Users\maram\Desktop\courses 2\andalosia\assignment\Assignment 3\Assignment 3\bin\Debug\net10.0\Asp.Versioning.Mvc.ApiExplorer.dll
